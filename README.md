@@ -45,7 +45,7 @@
           config---handles environment configuration.
         
  
-# Usage Guide
+# User Guide
 
 #### id serves as a private key while publickey serves as a public key
 ## Routes
@@ -69,7 +69,7 @@ fetch('https://status.up.railway.app/ping', options)
   
   ### /tokens
   
-  ### A token is a a key needed by a user to edit data i.e a token is required to
+  ### A token is a a key needed by a user to edit data i.e a token is required to:
   #### POST
   
   ##### used to create a token, reqiured parameters are
